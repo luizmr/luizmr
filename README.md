@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Luiz Marcelo Rocha from Brazil (🇧🇷). I'm a Mechatronics Engineer, front-end lover and a quick learner. I always have been passionate about programming, so I decided to work harder to become a Front-end Dev and this is what I'm goingo to do. 
+My name is Luiz Marcelo Rocha from Brazil (🇧🇷). I'm working as a Front-end Developer nowadays, but I am a graduated Mechatronics Engineer too. I always have been passionate about programming, so I decided to work harder to become now a Full-stack dev and this is what I'm goingo to do. 
 
 In my free time I like to play video-games, going to the movies, and watch/play soccer (Corinthians fan all the way ⚫️⚪️).
 
